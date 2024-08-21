@@ -42,3 +42,4 @@ console.log(div.calcArea());
 // здесь мы соблюдаем ООПa
 // fdfgf
 // fvddbd
+// gdfgfgd
